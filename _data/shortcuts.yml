@@ -42,6 +42,7 @@ categories:
         external: false
       - name: Πτυχιακή Εργασία (Π)
         url: "#πτυχιακη-εργασια"
+        external: false
   - name: Εργαστήρια
     url: /groups/
     base_url: /groups/
