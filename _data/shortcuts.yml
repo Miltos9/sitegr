@@ -40,6 +40,8 @@ categories:
       - name: Η' Εξάμηνο (Π)
         url: "#η-εξαμηνο"
         external: false
+      - name: Πτυχιακή Εργασία (Π)
+        url: "#πτυχιακη-εργασια"
   - name: Εργαστήρια
     url: /groups/
     base_url: /groups/
